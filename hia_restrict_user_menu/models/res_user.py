@@ -1,6 +1,4 @@
 from odoo import models, fields, api
-from collections import defaultdict
-from odoo.osv import expression
 
 
 class RestrictUserMenu(models.Model):
